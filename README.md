@@ -1,2 +1,14 @@
 # java-interview-spring
-java interview using spring boot
+
+## Tech Stack
+
+* Java 17
+* SpringBoot
+
+## Running Locally
+
+The server can be started from the command line with the command: **mvn spring-boot:run**
+
+## Ready to go?
+
+Ensure the server is running and the endpoint **GET http://localhost:8080/A** returns a successful 200 response
