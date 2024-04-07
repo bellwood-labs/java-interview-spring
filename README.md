@@ -7,7 +7,7 @@
 
 ## Running Locally
 
-The server can be started from the command line with the command: **mvn spring-boot:run**
+The server can be started from the command line with: **mvn spring-boot:run**
 
 ## Ready to go?
 
